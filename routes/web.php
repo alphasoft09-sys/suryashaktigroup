@@ -85,6 +85,9 @@ Route::view('/contact', 'contact')->name('contact');
 // Get Quote Route
 Route::view('/get-quote', 'quote')->name('quote');
 
+// Vendor Registration Route
+Route::view('/vendor', 'vendor')->name('vendor');
+
 // Dynamic Service Route
 Route::get('/services/{slug}', function ($slug) use ($services) {
     if (!array_key_exists($slug, $services)) {
