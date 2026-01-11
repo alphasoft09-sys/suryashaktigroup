@@ -43,8 +43,7 @@
                                 </div>
                                 <div>
                                     <h4 class="text-gold font-bold mb-1">Phone</h4>
-                                    <p class="text-gray-300">+1 (555) 123-4567</p>
-                                    <p class="text-gray-300">+1 (555) 765-4321</p>
+                                    <p class="text-gray-300">9938499800</p>
                                 </div>
                             </div>
 
@@ -64,8 +63,11 @@
                                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
                                 </div>
                                 <div>
-                                    <h4 class="text-gold font-bold mb-1">Office</h4>
-                                    <p class="text-gray-300">123 Industrial Ave, Metal City,<br>State 12345, Country</p>
+                                    <h4 class="text-gold font-bold mb-1">Main Office</h4>
+                                    <p class="text-gray-300 mb-3">Badamba, Cuttack, Odisha, 754031</p>
+                                    
+                                    <h4 class="text-gold font-bold mb-1">Corporate Office</h4>
+                                    <p class="text-gray-300">Plot No 582/2783, Uttarmunda muhana, Janla, Bhubaneswar, Odisha, 752054</p>
                                 </div>
                             </div>
                         </div>
@@ -141,12 +143,13 @@
     <!-- Map Section -->
     <section class="h-[500px] w-full relative grayscale hover:grayscale-0 transition-all duration-500">
         <iframe 
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1422937950147!2d-73.98731968482413!3d40.75889497932681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes%20Square!5e0!3m2!1sen!2sus!4v1622646632486!5m2!1sen!2sus" 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14976.13250087181!2d85.7096232!3d20.2159445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a19a913d277d5cb%3A0x1bbf1c2c4483777c!2sJanla%2C%20Odisha%20752054!5e0!3m2!1sen!2sin!4v1768159918622!5m2!1sen!2sin" 
             width="100%" 
             height="100%" 
             style="border:0;" 
             allowfullscreen="" 
-            loading="lazy">
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade">
         </iframe>
         <div class="absolute inset-0 bg-gold/10 pointer-events-none"></div>
     </section>
